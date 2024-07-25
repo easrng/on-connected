@@ -1,0 +1,28 @@
+{
+  "name": "on-connected",
+  "version": "0.0.0",
+  "description": "a zero-dependency web component that notifies you when connected and disconnected from the DOM",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easrng/on-connected.git"
+  },
+  "keywords": [
+    "connectedCallback",
+    "disconnectedCallback",
+    "webcomponent",
+    "web-component"
+  ],
+  "author": "easrng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/easrng/on-connected/issues"
+  },
+  "homepage": "https://github.com/easrng/on-connected#readme",
+  "type": "module",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "packageManager": "pnpm@9.4.0+sha256.b6fd0bfda555e7e584ad7e56b30c68b01d5a04f9ee93989f4b93ca8473c49c74"
+}
